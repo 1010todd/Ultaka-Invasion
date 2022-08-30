@@ -1,7 +1,7 @@
 # Ultaka Invasion
  Experimental content plugin for open source game Endless Sky
  
-# (IMPORTANT)PREQUIRES:
+# (IMPORTANT)PREREQUIRES:
 Endless Sky version 0.9.15 (Continuous) or higher
 
 [Galactic War plugin](https://github.com/1010todd/Galactic-War)
