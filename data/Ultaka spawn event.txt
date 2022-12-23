@@ -6,7 +6,7 @@ mission "UiMW Dev: Trigger Invasion"
 	name "UiMW Dev: Trigger Invasion"
 	description "Trigger the Ultaka invasion of Milky Way. (Scout first, main invasion one months after.) WARNING: This will likely disrupt every storyline."
 	source
-		government "cheat"
+		government "cheat" "vanilla"
 	on accept
 		event "UiMW: Ultaka Scout South"
 		event "UiMW: Ultaka Invades South-Quarg" 30
